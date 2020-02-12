@@ -17,7 +17,7 @@ To be honest, I am starting from scratch here. Relative to what there is to know
 - Victim keyboard functions as normal
 - No physical access required for installation or exfil
 - No hardware resources required
-- Functionality not limited by space (unless you care about file size)
+- Functionality not limited by space (unless you care about file size)  
 **Software Keylogger Disadvantages**
 - Detectable by antivirus
 - Only logs keys after OS loads
@@ -27,13 +27,13 @@ I am really good at spelling and going down rabbit holes. I found out about hard
 **Hardware Keylogger Advantages**
 - Starts logging keys before OS Loads
 - Undetectable by antivirus
-- Does not use computer resources (other than power)
+- Does not use computer resources (other than power)  
 **Hardware Keylogger Disadvantages**
 - Physically detectable
 - USB Keyboard data can be misinterpreted and in some cases can causes missed keys on the computer
 - Requires physical access to victim computer to install
 - Microcontrollers and programming hardware required
-- Functionality limited by space
+- Functionality limited by space  
 
 # Spachuhn WiFi Keylogger
 *This is only the beginning of the end.*
