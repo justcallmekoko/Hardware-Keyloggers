@@ -1,4 +1,4 @@
-# Hardware-Keyloggers
+# Hardware Keyloggers
 Research done about modern hardware keyloggers
 
 # Table of Constituents
