@@ -5,7 +5,7 @@ Research done about modern hardware keyloggers
 - [Introduction](#introduction)
 - [Hardware Keyloggers vs Software Keyloggers](#hardware-keyloggers-vs-software-keyloggers)
 - [Spacehuhn WiFi Keylogger](#spacehuhn-wifi-keylogger)
-- [KEYVILBOARD Keylogger](#keyvilkeyboard-keylogger)
+- [KEYVILBOARD Keylogger](#keyvilboard-keylogger)
 - [Maltronics WiFi Keylogger](#maltronics-wifi-keylogger)
 
 # Introduction
