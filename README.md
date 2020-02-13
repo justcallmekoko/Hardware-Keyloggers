@@ -92,3 +92,7 @@ The CPLD itself is hidden within the body of the Male USB plug. It is able to an
 ```
 
 I imagine this keylogger works similar to the [Integra Sources Keylogger](https://www.goodfirms.co/company/portfolio/10087/), but this one uses an [EPM3064](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/ds/m3000a.pdf) CPLD instead of a 5M160ZE64C5N and I believe this keylogger does not have WiFi capabilities inferred from the absence of an ESP8266 in the component listing.
+
+# CPLD Based Keyloggers
+*Activate God Mode*
+There is a really interesting pattent [here](https://github.com/justcallmekoko/Hardware-Keyloggers/blob/master/Images/US20070294441A1.pdf) detailing the functionality (at an intermediate leve) of a CPLD based USB keylogger.
