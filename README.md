@@ -1,7 +1,8 @@
 # Hardware Keyloggers
 Research done about modern hardware keyloggers
+![Get shit on](https://github.com/justcallmekoko/Hardware-Keyloggers/blob/master/Images/usbdemo.jpg?raw=true)
 
-# Table of Constituents
+# Table of Confidence
 - [Introduction](#introduction)
 - [Hardware Keyloggers vs Software Keyloggers](#hardware-keyloggers-vs-software-keyloggers)
 - [Spacehuhn WiFi Keylogger](#spacehuhn-wifi-keylogger)
